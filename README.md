@@ -1,0 +1,1 @@
+# DailyPractice_simpleAlgorithm
